@@ -7,3 +7,5 @@ Data Dictionary:
 Included within the HotdogSurvey.csv
 Raw Data:
 Established Data: Combined Yik Yak, Survey, and Srat/Frat Data
+
+This project is meant to discover whether less than half of full time UVA students believe hotdogs are a sandwhich.
